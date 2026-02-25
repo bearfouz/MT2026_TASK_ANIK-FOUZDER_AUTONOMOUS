@@ -1,0 +1,4 @@
+source;share/turtlesim_astar_v_shitty/local_setup.bash
+source;share/turtlesim_astar_v_shitty/local_setup.dsv
+source;share/turtlesim_astar_v_shitty/local_setup.sh
+source;share/turtlesim_astar_v_shitty/local_setup.zsh

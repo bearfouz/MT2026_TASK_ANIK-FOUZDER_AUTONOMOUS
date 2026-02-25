@@ -1,0 +1,42 @@
+[0.048s] Invoking command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/src/turtlesim_astar_v_shitty -DCMAKE_INSTALL_PREFIX=/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty
+[0.801s] -- The C compiler identification is GNU 13.3.0
+[0.997s] -- The CXX compiler identification is GNU 13.3.0
+[1.058s] -- Detecting C compiler ABI info
+[1.212s] -- Detecting C compiler ABI info - done
+[1.224s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.225s] -- Detecting C compile features
+[1.226s] -- Detecting C compile features - done
+[1.239s] -- Detecting CXX compiler ABI info
+[1.372s] -- Detecting CXX compiler ABI info - done
+[1.385s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.386s] -- Detecting CXX compile features
+[1.387s] -- Detecting CXX compile features - done
+[1.500s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.837s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.173s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.582s] -- Added test 'lint_cmake' to check CMake code style
+[2.592s] -- Added test 'xmllint' to check XML markup files
+[2.598s] -- Configuring done (2.2s)
+[2.604s] -- Generating done (0.0s)
+[2.607s] -- Build files have been written to: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty
+[2.616s] Invoked command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/src/turtlesim_astar_v_shitty -DCMAKE_INSTALL_PREFIX=/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty
+[2.617s] Invoking command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty -- -j4 -l4
+[2.670s] Invoked command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty -- -j4 -l4
+[2.682s] Invoking command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty
+[2.694s] -- Install configuration: ""
+[2.694s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/ament_index/resource_index/package_run_dependencies/turtlesim_astar_v_shitty
+[2.694s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/ament_index/resource_index/parent_prefix_path/turtlesim_astar_v_shitty
+[2.695s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/environment/ament_prefix_path.sh
+[2.695s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/environment/ament_prefix_path.dsv
+[2.695s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/environment/path.sh
+[2.695s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/environment/path.dsv
+[2.695s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/local_setup.bash
+[2.696s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/local_setup.sh
+[2.696s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/local_setup.zsh
+[2.696s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/local_setup.dsv
+[2.696s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/package.dsv
+[2.697s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/ament_index/resource_index/packages/turtlesim_astar_v_shitty
+[2.697s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/cmake/turtlesim_astar_v_shittyConfig.cmake
+[2.697s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/cmake/turtlesim_astar_v_shittyConfig-version.cmake
+[2.697s] -- Installing: /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/install/turtlesim_astar_v_shitty/share/turtlesim_astar_v_shitty/package.xml
+[2.700s] Invoked command in '/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty

@@ -1,0 +1,9 @@
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/uninstall.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/turtlesim_astar_v_shitty_uninstall.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/test.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/edit_cache.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/rebuild_cache.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/list_install_components.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/install.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/install/local.dir
+/home/anik-fouzder/MT2026_TASK_ANIK-FOUZDER_AUTONOMOUS/build/turtlesim_astar_v_shitty/CMakeFiles/install/strip.dir
